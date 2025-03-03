@@ -57,6 +57,18 @@ Você pode abrir e rodar o projeto diretamente no Google Colab clicando no botã
 
 ---
 
+## 📂 **Visualização do Arquivo Principal**
+O arquivo **`tabalhoFinal_dataMining.ipynb`** não pode ser pré-visualizado na íntegra diretamente no GitHub devido ao seu tamanho, pois contém **datasets extensos e mapas interativos**.
+
+Para facilitar, foi adicionada uma **prévia manual** do notebook:  
+🖼 **`preview_trabalho.png`**  *(Imagem com um resumo visual do projeto).*  
+
+Para interagir com o código completo e os gráficos dinâmicos, **abra o notebook no Google Colab** pelo botão abaixo:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nHqd3ezvOd7rW0Y5ZazvgjuhJb-rJ471?usp=sharing)
+
+---
+
 ## 🤝 **Como Contribuir**
 
 💡 Quer contribuir com o projeto? Aqui estão algumas formas de ajudar:
